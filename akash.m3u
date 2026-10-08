@@ -199,6 +199,8 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020177.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="Bangladesh",Nagorik TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="Bangladesh",Nagorik TV (backup)
+http://198.195.239.50:8095/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.ng" group-title="MOVIE 🍿",Rakuten TV Comedy Movies
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsvZqLs/20260917-182117.png" group-title="MOVIE 🍿",Zee Bangla Cinema
